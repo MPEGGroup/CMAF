@@ -1,7 +1,7 @@
 # CMAF
 Official MPEG repository to discuss public issues on CMAF (ISO/IEC 23000-19)
 
-The table below lists final and current documents produced by MPEG regarding ISO/IEC 23000-19 (CMAF)
+The table below lists final and current documents produced by MPEG regarding ISO/IEC 23000-19 (CMAF). Links to MPEG Output documents are only accessible to MPEG members.
 
 | Document Name | Output Date | Output doc# | ISO Status | Comments |
 | ----- | ----- | ----- | ----- | ----- | 
