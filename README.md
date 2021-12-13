@@ -3,7 +3,7 @@ Official MPEG repository to discuss public issues on CMAF (ISO/IEC 23000-19)
 
 The table below lists final and current documents produced by MPEG regarding ISO/IEC 23000-19 (CMAF). Links to MPEG Output documents are only accessible to MPEG members.
 
-| Document Name | Output Date | Output doc# | ISO Status | Comments |
+| Document Name | Output Date | Output doc# (MPEG-member only) | ISO Status | Comments |
 | ----- | ----- | ----- | ----- | ----- | 
 | 1st Edition | 2017-04-07 | [16819](https://dms.mpeg.expert/doc_end_user/documents/118_Hobart/wg11/w16819.zip) | [Published 2018-01](https://www.iso.org/standard/71975.html) | |
 | Amd 1 to 1st Ed. (SHVC media profile and additional audio media profiles) | 2017-11-11 | [17173](https://dms.mpeg.expert/doc_end_user/documents/120_Macau/wg11/w17173-v2-w17173.zip) | [Published 2018-10](https://www.iso.org/standard/73307.html) | |
